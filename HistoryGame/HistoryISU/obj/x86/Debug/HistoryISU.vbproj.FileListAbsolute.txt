@@ -1,0 +1,16 @@
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\bin\Debug\HistoryISU.exe
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Play4.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Play3.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Play5.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Play2.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Form1.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Game.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Resources.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Play1.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.vbproj.GenerateResource.Cache
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.exe
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.xml
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.pdb
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\bin\Debug\HistoryISU.pdb
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\bin\Debug\HistoryISU.xml
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\HistoryISU\HistoryISU\obj\x86\Debug\HistoryISU.Loading.resources
